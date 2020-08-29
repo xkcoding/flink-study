@@ -22,7 +22,7 @@ import java.net.URL;
  * @since 2020/8/24 11:29
  */
 @Slf4j
-public class HotSearcheEtl {
+public class HotSearchEtl {
     @Data
     @AllArgsConstructor
     static class WordCount {
